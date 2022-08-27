@@ -1,0 +1,111 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+@font-face{
+    
+    font-family: cursed;
+    src: url(CursedTimerULiL.ttf)
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #00004d;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    border-radius: 10px
+    
+    
+}
+
+.blackbox{
+    height: 90px;
+    width: 140px;
+    background-color: black;
+    margin-left: 8px;
+    border-radius: 5px;
+    
+     
+    
+    
+}
+#inside1{
+    padding: 30px;
+}
+
+#inside2{
+    padding: 30px;
+}
+
+
+.buttons{
+    display: block;
+    margin-left: 4px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    
+
+
+    
+}
+
+
+
+.a-one{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+
+    
+}
+
+.a-two{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+    
+}
+.a-three{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+    
+}
+
+.b-one{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+    
+}
+
+.b-two{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+    
+}
+.b-three{
+    color: white;
+    background-color: #00004d;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-family: cursed;
+    
+}
